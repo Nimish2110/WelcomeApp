@@ -29,9 +29,14 @@ It offers a personalized greeting experience with features like dark mode, font 
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of your app screens here)*
 
----
+
+<img width="369" height="796" alt="Screenshot 2025-07-16 202531" src="https://github.com/user-attachments/assets/045e752a-2db8-4c5f-9be8-eb44dfec0420" />
+<img width="368" height="803" alt="Screenshot 2025-07-16 202548" src="https://github.com/user-attachments/assets/621a7b05-3af7-446f-a329-c00cb55d9088" />
+<img width="366" height="801" alt="Screenshot 2025-07-16 202611" src="https://github.com/user-attachments/assets/5b780144-21e6-4224-ad92-1e709410f94d" />
+<img width="378" height="798" alt="Screenshot 2025-07-16 202701" src="https://github.com/user-attachments/assets/57571125-57ca-4684-bd2e-e47656d2e84a" />
+<img width="369" height="797" alt="Screenshot 2025-07-16 202723" src="https://github.com/user-attachments/assets/855e9fb1-de5d-41f8-9e38-c405fe7289fb" />
+
 
 ## 🛠️ Tech Stack
 
